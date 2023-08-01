@@ -5,8 +5,8 @@
 
 
 # Crie a função que será avaliada no exercício aqui
-
-
+def cumulativo(lista): 
+  return lista
 
 
 
