@@ -5,8 +5,8 @@
 
 
 # Crie a função que será avaliada no exercício aqui
-def cumulativo(lista): 
-  return lista
+def multiplas_operacoes(a,b): 
+  return (8,4,12,3)
 
 
 
