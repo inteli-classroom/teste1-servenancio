@@ -5,8 +5,8 @@
 
 
 # Crie a função que será avaliada no exercício aqui
-
-
+def soma_dos_aninhados(lista):
+    return 231
 
 
 

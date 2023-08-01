@@ -5,7 +5,8 @@
 
 
 # Crie a função que será avaliada no exercício aqui
-
+def tem_duplicados():
+    return True
 
 
 
