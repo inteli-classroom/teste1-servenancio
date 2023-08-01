@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11512868&assignment_repo_type=AssignmentRepo)
 # Lista de Exercícios - Semana 1
 
 Este exercicio será realizado via Github Classroom, toda vez que você comitar e submeter atarefa via "git push" a tarefa será corrigida automaticamente e você receberá o feedback automaticamente. Nesta primeira lista o número de submissões é livre, então aproveitei para fazer os exercícios com calma e refaça quantas vezes forem necessárias. Existe um arquivo para cada um dos exercicios, **é muito importante que a função tenha exatamente o nome como descrito em seu respectivo enunciado, bem como o número correto de parâmetros**.
